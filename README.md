@@ -8,15 +8,15 @@ Zielgruppe: Schüler:innen (aktuell v. a. Klasse 5–10) und Patenkinder. Einsat
 
 | Spiel | Version | Direktlink |
 |---|---|---|
-| Mathe-Racer (Retrowave) | Retrowave, Stand 15.11.2026 | [Mathe_Racer_Retrowave.html](blob/main/Mathe_Racer_Retrowave.html) |
-| Rechen-Schlange | V2, Stand 15.11.2026 | [Rechen_Schlange_V2.html](blob/main/Rechen_Schlange_V2.html) |
+| Mathe-Racer (Retrowave) | Retrowave, Stand 15.11.2026 | [Mathe_Racer_Retrowave.html](Mathe_Racer_Retrowave.html) |
+| Rechen-Schlange | V2, Stand 15.11.2026 | [Rechen_Schlange_V2.html](Rechen_Schlange_V2.html) |
 
 Zum Testen: Datei im Link öffnen → `Raw`-Ansicht → herunterladen und im Browser öffnen.
 
 ## Die Vorlagen
 
 ### 🏁 Mathe-Racer (Retrowave)
-[`Mathe_Racer_Retrowave.html`](blob/main/Mathe_Racer_Retrowave.html) – Rennspiel im Retrowave-Look (Pink `#ff4fd8`, Cyan `#35e0ff`, Violett `#B18CD9`): Richtige Antworten geben Tempo, Fehler kosten Zeit, mit Partikeln, Flash und Shake.
+[`Mathe_Racer_Retrowave.html`](Mathe_Racer_Retrowave.html) – Rennspiel im Retrowave-Look (Pink `#ff4fd8`, Cyan `#35e0ff`, Violett `#B18CD9`): Richtige Antworten geben Tempo, Fehler kosten Zeit, mit Partikeln, Flash und Shake.
 
 **Themen:** `pvs` (Punkt vor Stricht), `units` (Größen & Einheiten), `bruch` (Brüche), `prozent`, `terme` (Terme), `pytta` (Satz des Pythagoras), `zufall` (Wahrscheinlichkeit), `alles` (Mix).
 
@@ -35,7 +35,7 @@ const TRACKS = {
 `alles` nimmt neue Themen automatisch in den Mix auf (dort `pick([...])`-Liste ergänzen).
 
 ### 🐍 Rechen-Schlange
-[`Rechen_Schlange_V2.html`](blob/main/Rechen_Schlange_V2.html) – Snake im 3B1B-Design mit großem Touch-D-Pad, kompatibel zur Racer-Farbpalette. Richtige Antwort = Futter (wachsen), falsche Antwort = Leben verlieren. Dient außerdem als **Struktur-/Steuerungs-Vorlage** für weitere Apps.
+[`Rechen_Schlange_V2.html`](Rechen_Schlange_V2.html) – Snake im 3B1B-Design mit großem Touch-D-Pad, kompatibel zur Racer-Farbpalette. Richtige Antwort = Futter (wachsen), falsche Antwort = Leben verlieren. Dient außerdem als **Struktur-/Steuerungs-Vorlage** für weitere Apps.
 
 **Themen:** `add1` (bis 20), `add2` (bis 100), `mul` (Einmaleins), `div`, `mix`, `percent` (Prozent & Größen), weitere Generatoren mit kompetitiven Distraktoren.
 
